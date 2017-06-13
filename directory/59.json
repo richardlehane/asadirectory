@@ -1,0 +1,35 @@
+{
+  "Name": "Australian Stock Exchange",
+  "URL": "/archives/41",
+  "About": [
+    {
+      "Officer in charge": "Manager, Research and Information"
+    },
+    {
+      "Hours & facilities": "Open by appointment only."
+    },
+    {
+      "Acquisition focus": "The focus is on collecting historical information relating to the Stock Market in Australia."
+    },
+    {
+      "Major holdings": "Annual Reports (all Stock Exchanges)"
+    }
+  ],
+  "Contact": [
+    {
+      "Street address": "20 Bond Street, Sydney 2000"
+    },
+    {
+      "Postal address": "PO Box H224, Australia Square 2000"
+    },
+    {
+      "Fax": "(02) 9227-0485"
+    },
+    {
+      "Email": "asxlib@www.asx.com.au"
+    },
+    {
+      "Note": "PLEASE NOTE: The above details here are for the use of archivists ONLY. \n\n\nAll other enquires must please call: 131 279"
+    }
+  ]
+}

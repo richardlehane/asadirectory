@@ -1,0 +1,32 @@
+{
+  "Name": "Stanton Library",
+  "URL": "/archives/124",
+  "About": [
+    {
+      "Officer in charge": "Manager of Historical Services"
+    },
+    {
+      "Hours & facilities": "Mon to Thurs 9am-9pm, Fri 1pm-5pm, Sat 9am-5pm, Sun 2pm-5pm."
+    },
+    {
+      "Acquisition focus": "The collection is exclusively concerned with records produced by North Sydney Municipal Council.(100% in-house)."
+    }
+  ],
+  "Contact": [
+    {
+      "Street address": "234 Miller Street, North Sydney 2060"
+    },
+    {
+      "Postal address": "As above"
+    },
+    {
+      "Phone": "(02) 9936-8400"
+    },
+    {
+      "Fax": "(02) 9936-8440"
+    },
+    {
+      "Website": "http://www.northsydney.nsw.gov.au/stanton_library/index.html"
+    }
+  ]
+}

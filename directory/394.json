@@ -1,0 +1,35 @@
+{
+  "Name": "Royal Women's Hospital Archives",
+  "URL": "/archives/377",
+  "About": [
+    {
+      "Officer in charge": "Archivist"
+    },
+    {
+      "Hours & facilities": "Open by appointment only."
+    },
+    {
+      "Quantity": "125m (99% in-house)"
+    }
+  ],
+  "Contact": [
+    {
+      "Street address": "132 Grattan Street, Carlton, Victoria, 3053."
+    },
+    {
+      "Postal address": "Locked Bag 300, Parkville, Victoria 3052."
+    },
+    {
+      "Phone": "(03) 9344-2032"
+    },
+    {
+      "Fax": "(03) 9344-2193"
+    },
+    {
+      "Website": "http://www.thewomens.org.au/OurHistory"
+    },
+    {
+      "Note": "Previously known as the Tracy Maund Historical Collection, Royal Women's Hospital."
+    }
+  ]
+}

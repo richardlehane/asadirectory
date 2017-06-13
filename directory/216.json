@@ -1,0 +1,35 @@
+{
+  "Name": "Kenmore Hospital",
+  "URL": "/archives/89",
+  "About": [
+    {
+      "Officer in charge": "Medical Record Administrator"
+    },
+    {
+      "Hours & facilities": "Open Mon-Fri 8:30am-5pm; closed 12-1pm for lunch and public holidays. Reference assistance available in person and by mail. Photocopies of documents are available and are included in the $30 fee charged in accord with NSW Health Department Policy."
+    },
+    {
+      "Access": "Advance notice of visit required; appointment should be arranged with the Medical Superintendent. Proof of identity required. Access to records requires the patient's written authorisation (or that of closest living next of kin if patient deceased)."
+    },
+    {
+      "Acquisition focus": "Medical records are available to be viewed by the patient or their relatives (if patient is deceased, or with the patient's written permission). All research requests must be directed to the Medical Superintendent. (100% in-house)."
+    }
+  ],
+  "Contact": [
+    {
+      "Street address": "Taralga Road, Kenmore 2580"
+    },
+    {
+      "Postal address": "Goulburn Health Service, Locked Bag 11, Goulburn 2580"
+    },
+    {
+      "Phone": "(02) 4827-3375"
+    },
+    {
+      "Fax": "(02) 4827-3446"
+    },
+    {
+      "Enquiries to": "Medical Superintendent"
+    }
+  ]
+}

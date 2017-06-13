@@ -1,0 +1,32 @@
+{
+  "Name": "Lithgow Regional Library",
+  "URL": "/archives/99",
+  "About": [
+    {
+      "Officer in charge": "Library Manager"
+    },
+    {
+      "Hours & facilities": "Open Mon-Fri 10am-6pm and Sat 9am-12pm; closed public holidays. General reference assistance available. General copying services available."
+    },
+    {
+      "Quantity": "Material pertaining to geographic region only."
+    }
+  ],
+  "Contact": [
+    {
+      "Street address": "Corner Bridge Street and Mort Street, Lithgow 2790"
+    },
+    {
+      "Postal address": "As above"
+    },
+    {
+      "Phone": "(02) 6352-2770"
+    },
+    {
+      "Fax": "(02) 6352-3849"
+    },
+    {
+      "Website": "http://lisp.com.au/~lithlib/navigate.htm"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Name": "Parkes Shire Council",
+  "URL": "/archives/130",
+  "About": [
+    {
+      "Officer in charge": "General Manager"
+    },
+    {
+      "Hours & facilities": "Open Mon-Fri 8:30am-5pm; closed public holidays. (75% in-house)."
+    }
+  ],
+  "Contact": [
+    {
+      "Street address": "2 Cecile Street, Parkes 2870"
+    },
+    {
+      "Postal address": "PO Box 337, Parkes 2870"
+    },
+    {
+      "Phone": "(02) 6861-2333"
+    },
+    {
+      "Fax": "(02) 6862-3946"
+    },
+    {
+      "Email": "council@parkes.nsw.gov.au"
+    },
+    {
+      "Website": "http://www.parkes.nsw.gov.au"
+    },
+    {
+      "Enquiries to": "Administration Manager"
+    }
+  ]
+}
